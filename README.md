@@ -12,7 +12,7 @@ Antes de iniciar, asegúrate de tener instalado:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/LEONGO037/TDD-Kata-3-en-raya.git
    ```
 2. Navega a la carpeta del proyecto:
    ```bash
