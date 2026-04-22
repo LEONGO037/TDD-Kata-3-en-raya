@@ -45,9 +45,19 @@ Para verificar la suite de pruebas generada por la Inteligencia Artificial:
 npm test -- TicTacToeIA.test.js
 ```
 
+## 🎮 Modo Demo (Interactivo)
+
+Si deseas probar el juego de forma interactiva en la consola, puedes ejecutar el script de demostración:
+
+```bash
+node demo.js
+```
+Este modo te permite ingresar coordenadas (fila,columna) para jugar una partida completa contra otro jugador local.
+
 ## 📁 Estructura del Proyecto
 
 - `TicTacToe.js`: Lógica principal del juego (Clase TicTacToe).
+- `demo.js`: Script interactivo para jugar en consola.
 - `TicTacToe.test.js`: Pruebas unitarias creadas manualmente siguiendo el ciclo TDD.
 - `TicTacToeIA.test.js`: Pruebas unitarias generadas mediante prompts de IA.
 - `package.json`: Configuración del proyecto y dependencias.
